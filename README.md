@@ -1,12 +1,3 @@
-## 🚀 My Projects
-
-| Project Name  | Description | Technologies | Link |
-|--------------|------------|-------------|------|
-| **E-Commerce App** | A full-stack e-commerce website | ![React](https://img.shields.io/badge/-React-blue) ![Node.js](https://img.shields.io/badge/-Node.js-green) ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen) | [GitHub](https://github.com/tonrepo) |
-| **Data Forecasting** | Predictive analysis of sales data | ![Python](https://img.shields.io/badge/-Python-yellow) ![Pandas](https://img.shields.io/badge/-Pandas-lightblue) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--learn-orange) | [GitHub](https://github.com/tonrepo) |
-| **Portfolio Website** | My personal developer portfolio | ![HTML](https://img.shields.io/badge/-HTML-red) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) | [Live](https://tonportfolio.com) |
-| **AI Chatbot** | A chatbot for customer support | ![Python](https://img.shields.io/badge/-Python-yellow) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange) ![NLP](https://img.shields.io/badge/-NLP-purple) | [GitHub](https://github.com/tonrepo) |
-
 # Hi there 👋
 
 I'm **Wissem**,  
@@ -37,10 +28,19 @@ const TonNom = {
   },
   architecture: ["Microservices", "Serverless Architecture", "Single Page Applications"]
 };
+```
 
-![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 ---
 
+# 🚀 My Projects
 
+| Project Name  | Description | Technologies | Link |
+|--------------|------------|-------------|------|
+| **E-Commerce App** | A full-stack e-commerce website | ![React](https://img.shields.io/badge/-React-blue) ![Node.js](https://img.shields.io/badge/-Node.js-green) ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen) | [GitHub](https://github.com/tonrepo) |
+| **Data Forecasting** | Predictive analysis of sales data | ![Python](https://img.shields.io/badge/-Python-yellow) ![Pandas](https://img.shields.io/badge/-Pandas-lightblue) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--learn-orange) | [GitHub](https://github.com/tonrepo) |
+| **Portfolio Website** | My personal developer portfolio | ![HTML](https://img.shields.io/badge/-HTML-red) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) | [Live](https://tonportfolio.com) |
+| **AI Chatbot** | A chatbot for customer support | ![Python](https://img.shields.io/badge/-Python-yellow) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange) ![NLP](https://img.shields.io/badge/-NLP-purple) | [GitHub](https://github.com/tonrepo) |
+
+![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
