@@ -30,7 +30,7 @@ const TonNom = {
 };
 
 ![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
+---
 ## 🚀 My Projects
 
 | Project Name  | Description | Technologies | Link |
