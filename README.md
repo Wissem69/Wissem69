@@ -58,12 +58,13 @@ I'm **Wissem**,
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" height="40" alt="Excel logo" />
   <img width="20" />
 
+  <!-- Qlik sens -->
+  <img src="https://www.ambient-it.net/wp-content/uploads/2022/03/logo-formation-qlik-sense.png" height="40" alt="Excel logo" />
+  <img width="25" />
+
   <!-- Google Data Studio -->
   <img src="https://w7.pngwing.com/pngs/182/372/png-transparent-google-bigquery-hd-logo.png" height="40" alt="Google Data Studio logo" />
   <img width="20" />
-
-  <!-- Looker -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Looker_icon.svg" height="40" alt="Looker logo" />
 </div>
 
 
@@ -74,7 +75,7 @@ I'm **Wissem**,
 
 | Project Name  | Description | Technologies | Link |
 |--------------|------------|-------------|------|
-| **Data analysis to improve marketing strategy** | A full-stack e-commerce website | ![React](https://img.shields.io/badge/-React-blue) ![Node.js](https://img.shields.io/badge/-Node.js-green) ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen) | [GitHub](https://github.com/tonrepo) |
+| **Data analysis to improve marketing strategy** | Analysis, segmentation, and optimization of marketing strategies through data-driven insights and dashboard creation to enhance customer engagement and maximize their interaction with the company. | ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow) ![Python](https://img.shields.io/badge/-Python-blue) ![SQL](https://img.shields.io/badge/-SQL-lightgray) | [GitHub](https://github.com/tonrepo) |
 | **Data Forecasting** | Predictive analysis of sales data | ![Python](https://img.shields.io/badge/-Python-yellow) ![Pandas](https://img.shields.io/badge/-Pandas-lightblue) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--learn-orange) | [GitHub](https://github.com/tonrepo) |
 | **Portfolio Website** | My personal developer portfolio | ![HTML](https://img.shields.io/badge/-HTML-red) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) | [Live](https://tonportfolio.com) |
 | **AI Chatbot** | A chatbot for customer support | ![Python](https://img.shields.io/badge/-Python-yellow) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange) ![NLP](https://img.shields.io/badge/-NLP-purple) | [GitHub](https://github.com/tonrepo) |
