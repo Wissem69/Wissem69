@@ -45,27 +45,50 @@ I'm **Wissem**,
 </div>
 
 ### I master the tools
-  <div>
+<div >
+
   <!-- Power BI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
-  <img width="20" />
+  <figure >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="Power BI logo">
+    <figcaption style="font-size: 14px; color: gray; margin-top: 60px;"><strong>Power BI</strong></figcaption>
+  </figure>
 
   <!-- Tableau -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="40" alt="Tableau logo" />
-  <img width="20" />
+  <figure style="text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="30" alt="Tableau logo">
+    <figcaption style="font-size: 14px; color: gray; margin-top: 60px;"><strong>Tableau</strong></figcaption>
+  </figure>
 
   <!-- Excel -->
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" height="40" alt="Excel logo" />
-  <img width="20" />
+  <figure style="text-align: center;">
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" height="30" alt="Excel logo">
+    <figcaption style="font-size: 14px; color: gray; margin-top: 60px;"><strong>Excel</strong></figcaption>
+  </figure>
 
-  <!-- Qlik sens -->
-  <img src="https://www.ambient-it.net/wp-content/uploads/2022/03/logo-formation-qlik-sense.png" height="40" alt="Excel logo" />
-  <img width="25" />
+  <!-- Databricks -->
+  <figure style="text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Databricks_Logo.png/600px-Databricks_Logo.png" height="30" alt="Databricks logo">
+    <figcaption style="font-size: 14px; color: gray; margin-top: 60px;"><strong>Databricks</strong></figcaption>
+  </figure>
 
-  <!-- Google Data Studio -->
-  <img src="https://w7.pngwing.com/pngs/182/372/png-transparent-google-bigquery-hd-logo.png" height="40" alt="Google Data Studio logo" />
-  <img width="20" />
+  <!-- AWS -->
+  <figure style="text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="30" alt="AWS logo">
+    <figcaption style="font-size: 14px; color: gray; margin-top: 60px;"><strong>AWS</strong></figcaption>
+  </figure>
+
+  <!-- Qlik Sense -->
+  <figure style="text-align: center;">
+    <img src="https://www.ambient-it.net/wp-content/uploads/2022/03/logo-formation-qlik-sense.png" height="30" alt="Qlik Sense logo" />
+    <figcaption style="font-size: 14px; color: gray; margin-top: 60px;"><strong>Qlik Sense</strong></figcaption>
+  </figure>
+
 </div>
+
+
+
+
+
 
 
 ###
